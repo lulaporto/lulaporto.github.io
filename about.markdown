@@ -2,17 +2,9 @@
 layout: page
 title: About
 permalink: /about/
-
-profile:
-  align: right
-  image: assets/img/prof_pic.jpg
-  address: >
 ---
 
-<div style="text-align: right">
-![image](assets/img/prof_pic.jpg){:height="40%" width="40%"}
-
-<div style="text-align: center">
+![image](assets/img/prof_pic.jpg){:height="35%" width="35%"}
 
 I am a PhD student at [UC Berkeley](https://www.econ.berkeley.edu/grad).
 
