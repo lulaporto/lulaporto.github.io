@@ -9,7 +9,9 @@ profile:
   address: >
 ---
 
-![image](assets/img/prof_pic.jpg){:height="50%" width="50%"}
+![image](assets/img/prof_pic.jpg){:height="40%" width="40%"}
+
+<div style="text-align: right">
 
 <p>Buenos Aires, Argentina</p>
 
