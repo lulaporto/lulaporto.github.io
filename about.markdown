@@ -1,8 +1,7 @@
 ---
-# new `_layouts/default.html` for backwards-compatibility when multiple
-# layouts have been customized.
-
-layout: home
+layout: page
+title: About
+permalink: /about/
 ---
 
 ![image](assets/img/prof_pic.jpg){:height="35%" width="35%"}
