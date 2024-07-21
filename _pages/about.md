@@ -10,18 +10,16 @@ profile:
   address: >
     <p>Buenos Aires, Argentina</p>
 
-news: false  # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 I am a PhD student at [UC Berkeley](https://www.econ.berkeley.edu/grad).
 
+- M.A. in Economics, 2022: Universidad de San Andres, Argentina
 
-* M.A. in Economics, 2022: Universidad de San Andres, Argentina
-
-* B.A. in Economics, 2020: Universidad de Buenos Aires, Argentina
-
+- B.A. in Economics, 2020: Universidad de Buenos Aires, Argentina
 
 #### Research Interest
 
