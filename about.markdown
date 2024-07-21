@@ -1,10 +1,11 @@
 ---
-layout: page
-title: About
-permalink: /about/
+# new `_layouts/default.html` for backwards-compatibility when multiple
+# layouts have been customized.
+
+layout: home
 ---
 
-![image](assets/img/prof_pic.jpg){:height="35%" width="35%" .align-right}
+![image](assets/img/prof_pic.jpg){:height="35%" width="35%"}
 
 I am a PhD student at [UC Berkeley](https://www.econ.berkeley.edu/grad).
 
