@@ -21,7 +21,7 @@
 title: Lucila Porto
 email: lucila_porto@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: /about/ # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://lulaporto.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tw_lula
 github_username: lulaporto
