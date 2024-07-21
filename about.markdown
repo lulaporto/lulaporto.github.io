@@ -7,8 +7,11 @@ profile:
   align: right
   image: assets/img/prof_pic.jpg
   address: >
-    <p>Buenos Aires, Argentina</p>
 ---
+
+![image](assets/img/prof_pic.jpg)
+
+<p>Buenos Aires, Argentina</p>
 
 I am a PhD student at [UC Berkeley](https://www.econ.berkeley.edu/grad).
 
