@@ -5,7 +5,7 @@ permalink: /about/
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: assets/img/prof_pic.jpg
   address: >
     <p>Buenos Aires, Argentina</p>
 ---
