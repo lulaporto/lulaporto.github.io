@@ -9,11 +9,9 @@ profile:
   address: >
 ---
 
-![image](assets/img/prof_pic.jpg){:height="40%" width="40%"}
-
-<div style="text-align: right">
-
-<p>Buenos Aires, Argentina</p>
+<p align="right"">
+   <img src="assets/img/prof_pic.jpg" height="40%" width="40%" />
+</p>
 
 I am a PhD student at [UC Berkeley](https://www.econ.berkeley.edu/grad).
 
