@@ -70,14 +70,15 @@ $dm-link-base-color:       #79b8ff !default;
 $dm-link-visited-color:    $dm-link-base-color !default;
 $dm-link-hover-color:      $dm-text-color !default;
 
-// no border color
-//$dm-border-color-01:       $dm-brand-color-dark !default;
-//$dm-border-color-02:       $dm-brand-color-light !default;
+// no border color for links
+$dm-border-color-01:       $dm-brand-color-dark !default;
+$dm-border-color-02:       $dm-brand-color-light !default;
 $dm-border-color-03:       $dm-brand-color !default;
-
-$dm-border-color-01:       $dm-background-color !default;
-$dm-border-color-02:       $dm-background-color !default;
+//$dm-border-color-01:       $dm-background-color !default;
+//$dm-border-color-02:       $dm-background-color !default;
 //$dm-border-color-03:       $dm-background-color !default;
+//But border color for header and footer
+//$dm-border-color-hf:       $dm-brand-color !default;
 
 $dm-table-text-color:      $dm-text-color !default;
 $dm-table-zebra-color:     lighten($dm-background-color, 4%) !default;
@@ -634,8 +635,8 @@ a {
     a {
       display: block;
       padding: 10px 12px;
-      border: 1px solid $border-color-01;
-      &:hover { border-color: $border-color-02 }
+      // border: 1px solid $border-color-01;  // no border
+      // &:hover { border-color: $border-color-02 }
     }
   }
 }
