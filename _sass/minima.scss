@@ -187,6 +187,22 @@ $table-border-color: $dm-table-border-color;
   font-size: #{$ratio}rem;
 }
 
+
+html {
+  font-size: $base-font-size;
+}
+
+/**
+ * Reset some basic elements
+ */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
+
+}
+
 /**
  * Basic styling
  */
@@ -207,37 +223,86 @@ $table-border-color: $dm-table-border-color;
   }
 
 /**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm {
+  margin-bottom: $spacing-unit * .5;
+}
+
+hr {
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+}
+
+/**
+ * `main` element
+ */
+main {
+  display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
+}
+
+
+
+/**
+ * Images
+ */
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+/**
  * Headings
  */
  h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
   }
   
-  /**
-   * Links
-   */
-  a {
-    color: $link-base-color;
-    text-decoration: none;
-  
-    &:visited {
-      color: $link-visited-color;
-    }
-  
-    &:hover {
-      color: $link-hover-color;
-      text-decoration: underline;
-    }
-  
-    .social-media-list &:hover {
-      text-decoration: none;
-  
-      .username {
-        text-decoration: underline;
-      }
-    }
+/**
+  * Links
+  */
+a {
+  color: $link-base-color;
+  text-decoration: none;
+
+  &:visited {
+    color: $link-visited-color;
   }
 
+  &:hover {
+    color: $link-hover-color;
+    text-decoration: underline;
+  }
+
+  .social-media-list &:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: underline;
+    }
+  }
+}
+
+/**
+ * Wrapper
+ */
+ .wrapper {
+  max-width: calc(#{$content-width} - (#{$spacing-unit}));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit * .5;
+  padding-left: $spacing-unit * .5;
+  @extend %clearfix;
+
+  @media screen and (min-width: $on-large) {
+    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+  }
+}
 
 /**
 * Site header
