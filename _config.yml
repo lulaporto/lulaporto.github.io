@@ -41,10 +41,6 @@ header_pages:
   - about.md
   - teaching.md
   - cv.md
-
-# Minima specific settings, which are only available from Minima 3.0 onward.
-minima:
-  skin: dark
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
