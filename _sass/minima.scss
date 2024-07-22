@@ -313,6 +313,9 @@ a {
   clear: both;
 }
 
+//------------
+// LAYOUT FILE
+//------------
 /**
 * Site header
 */
@@ -546,3 +549,27 @@ a {
   @include relative-font-size(1.5);
 }
 
+/**
+ * Pagination navbar
+ */
+ .pagination {
+  margin-bottom: $spacing-unit;
+  @extend .social-media-list;
+  li {
+    a, div {
+      min-width: 41px;
+      text-align: center;
+      box-sizing: border-box;
+    }
+    div {
+      display: block;
+      padding: $spacing-unit * .25;
+      border: 1px solid transparent;
+
+      &.pager-edge {
+        color: $border-color-01;
+        border: 1px dashed;
+      }
+    }
+  }
+}
