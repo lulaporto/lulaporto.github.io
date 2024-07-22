@@ -33,6 +33,7 @@ linkedin_username: lucila-porto
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Theme-specific settings
 
