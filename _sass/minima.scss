@@ -463,10 +463,11 @@ a {
 }
 
 // eliminate the footer heading
-//.footer-heading {
-//  @include relative-font-size(1.125);
-//  margin-bottom: $spacing-unit * .5;
-//}
+.footer-heading {
+  //@include relative-font-size(1.125);
+  @include relative-font-size(0);
+  margin-bottom: $spacing-unit * .5;
+}
 
 .feed-subscribe .svg-icon {
   padding: 5px 5px 2px 0
