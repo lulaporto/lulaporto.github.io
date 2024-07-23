@@ -514,7 +514,8 @@ a {
 
 @media screen and (min-width: $on-medium) {
   .footer-col-wrapper {
-    display: flex
+    //display: flex
+    display: block
   }
 
   .footer-col {
@@ -526,10 +527,10 @@ a {
       padding-left: 0;
     }
 
-    &:last-child {
-      padding-right: 0;
-      padding-left: $spacing-unit * .5;
-    }
+    //&:last-child {
+    //  padding-right: 0;
+    //  padding-left: $spacing-unit * .5;
+    //}
   }
 }
 
