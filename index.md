@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![image-right](assets/img/prof_pic.jpg){: .align-right style="width: 100px;"}
+![image](assets/img/prof_pic.jpg){: .align-right style="width: 150px;"}
 
 I am a PhD student at [UC Berkeley](https://www.econ.berkeley.edu/grad).
 
