@@ -28,7 +28,7 @@ url: https://lulaporto.github.io/ # the base hostname & protocol for your site, 
 twitter_username: tw_lula
 github_username: lulaporto
 linkedin_username: lucila-porto
-gmail_username: lucila_porto@berkeley.edu
+email_username: lucila_porto@berkeley.edu
 
 # Build settings
 theme: minima
