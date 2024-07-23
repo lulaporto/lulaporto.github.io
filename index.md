@@ -9,10 +9,6 @@ layout: home
 
 I am a PhD student at [UC Berkeley](https://www.econ.berkeley.edu/grad).
 
-- M.A. in Economics, 2022: Universidad de San Andres, Argentina
-
-- B.A. in Economics, 2020: Universidad de Buenos Aires, Argentina
-
 #### Research Interest
 
 I am broadly interested in topics that lie at the intersection between economics and computer science. In particular, I am interested in algorithmic game theory, mechanism design, and applied theory.
