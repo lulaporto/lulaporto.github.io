@@ -11,7 +11,7 @@ layout: home
 
 ![image](assets/img/prof_pic.jpeg){:height="30%" width="30%"}
 
-I am a PhD Candidate at [UC Berkeley](https://www.econ.berkeley.edu/grad). Before coming here I did my master at Universidad de San Andrés and my undergrad at Universidad de Buenos Aires, Argentina.
+I am a PhD Candidate at [UC Berkeley](https://www.econ.berkeley.edu/grad). Before coming to the US, I did my master at Universidad de San Andrés and my undergrad at Universidad de Buenos Aires, Argentina.
 
 My field of interest is Industrial Organization.
 
