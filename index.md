@@ -9,9 +9,9 @@
 layout: home
 ---
 
-![image](assets/img/prof_pic.jpeg){:height="35%" width="35%"}
+![image](assets/img/prof_pic.jpeg){:height="30%" width="30%"}
 
-I am a PhD student at [UC Berkeley](https://www.econ.berkeley.edu/grad).
+I am a PhD Candidate at [UC Berkeley](https://www.econ.berkeley.edu/grad). Before coming here I did my master at Universidad de San Andrés and my undergrad at Universidad de Buenos Aires, Argentina.
 
-My fields of interest are Industrial Organization and Theory.
+My fields of interest is Industrial Organization.
 
