@@ -13,5 +13,5 @@ layout: home
 
 I am a PhD Candidate at [UC Berkeley](https://www.econ.berkeley.edu/grad). Before coming here I did my master at Universidad de San Andrés and my undergrad at Universidad de Buenos Aires, Argentina.
 
-My fields of interest is Industrial Organization.
+My field of interest is Industrial Organization.
 
